@@ -2,7 +2,7 @@
 
 <p align="center">
   A complete <b>Student Result Management System</b> built in <b>Java</b>.  
-  Manage student records, generate results, and simplify academic evaluation in just a few clicks! 🎓
+  Manage student records, generate results, and simplify academic evaluation in just a few clicks! 
 </p>
 
 <hr/>
